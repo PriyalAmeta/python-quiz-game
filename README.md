@@ -33,18 +33,6 @@ A simple command-line quiz game built with Python. The program asks users genera
    python3 python_quiz.py
    ```
 
-## Screenshot
-
-(Add a screenshot of your program here after running it.)
-
-## Future Improvements
-
-- Add more quiz questions
-- Randomize question order
-- Read questions from a file
-- Add difficulty levels
-- Add a timer for each question
-
 ## Author
 
 **Priyal Ameta**
